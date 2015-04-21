@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WP_Sensors_Sample" EntryPointType="WP_Sensors_Sample.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WP_Sensors_Sample" Source="WP_Sensors_Sample.dll" />
+  </Deployment.Parts>
+</Deployment>

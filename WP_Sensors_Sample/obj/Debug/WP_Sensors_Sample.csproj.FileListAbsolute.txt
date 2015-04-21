@@ -1,0 +1,12 @@
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\Bin\Debug\ApplicationIcon.png
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\Bin\Debug\Background.png
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\Bin\Debug\WP_Sensors_Sample.dll
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\Bin\Debug\WP_Sensors_Sample.pdb
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\Bin\Debug\AppManifest.xaml
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\Bin\Debug\WP_Sensors_Sample.xap
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\obj\Debug\App.g.i.cs
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\obj\Debug\MainPage.g.i.cs
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\obj\Debug\WP_Sensors_Sample.g.resources
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\obj\Debug\WP_Sensors_Sample.dll
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\obj\Debug\WP_Sensors_Sample.pdb
+C:\Users\JULIO\Desktop\WP_Sensors-master\WP_Sensors_Sample\obj\Debug\XapCacheFile.xml
